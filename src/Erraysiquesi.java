@@ -8,7 +8,7 @@ public class Erraysiquesi {
 
         //asignacion de valor a elementos de array
         androidVersions[0]="applepie";
-        androidVersions[1]="bannana bread";
+        androidVersions[1]="bannana breado";
 
 
         }
