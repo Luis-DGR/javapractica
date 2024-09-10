@@ -2,7 +2,7 @@ public class BucleFor {
     static boolean isTurnOnLight = false;
     public static void main(String[] args) {
         lamparaOnOff();
-        for (int i = 0; i <=10 ; i++) {
+        for (int i = 0; i <=100 ; i++) {
             printSOS();
 
         }
