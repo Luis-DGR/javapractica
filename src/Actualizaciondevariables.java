@@ -1,7 +1,7 @@
 public class Actualizaciondevariables {
     public static void main(String[] args) {
-        int salary = 1000;
-        int bono=200;
+        int salary = 100;
+        int bono=20;
         int pension= 50;
         int pagoPorHoraExtra=50;
         int NumerDeHorasExtra=2;
